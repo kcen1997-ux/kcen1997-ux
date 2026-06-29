@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://giphy.com" width="400" alt="Web and Mobile Testing Animation">
+  <img src="https://freepik.com" width="500" alt="Software Testing Concept">
 </div>
+
+
 # Привет! Я Ксения 👋 
 ### Junior QA Engineer | Manual Testing | Web & Mobile
 
