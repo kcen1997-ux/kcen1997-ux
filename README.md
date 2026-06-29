@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://freepik.com" width="500" alt="Software Testing Concept">
+  <img src="banner.png" width="500" alt="Software Testing Concept">
 </div>
 
 
